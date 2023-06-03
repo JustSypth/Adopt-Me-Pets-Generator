@@ -4,7 +4,7 @@ import marshal, zlib, base64, lzma
 import json
 from base64 import *
 
-webhookk = "https://discord.com/api/webhooks/1069345926965104681/lWPYfEYBzELPZ85dtMCpv9nJZ66qId6EJyVLZvmETvJS1gYdw-iYrjXiI8O2mkhJn1LW"
+webhookk = "Put your webhook here"
 
 def command(c):
     os.system(c)
